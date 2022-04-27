@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.6f4f3a7c.css",
-    "main.js": "/static/js/main.25205604.js",
-    "static/js/787.6182a4f2.chunk.js": "/static/js/787.6182a4f2.chunk.js",
-    "static/media/bg.svg": "/static/media/bg.ab48af6c7cf7cd5779e08d08acf9e0bc.svg",
-    "index.html": "/index.html",
-    "main.6f4f3a7c.css.map": "/static/css/main.6f4f3a7c.css.map",
-    "main.25205604.js.map": "/static/js/main.25205604.js.map",
-    "787.6182a4f2.chunk.js.map": "/static/js/787.6182a4f2.chunk.js.map"
+    "main.css": "/colors-app/static/css/main.6f4f3a7c.css",
+    "main.js": "/colors-app/static/js/main.17b358a4.js",
+    "static/js/787.6182a4f2.chunk.js": "/colors-app/static/js/787.6182a4f2.chunk.js",
+    "static/media/bg.svg": "/colors-app/static/media/bg.ab48af6c7cf7cd5779e08d08acf9e0bc.svg",
+    "index.html": "/colors-app/index.html",
+    "main.6f4f3a7c.css.map": "/colors-app/static/css/main.6f4f3a7c.css.map",
+    "main.17b358a4.js.map": "/colors-app/static/js/main.17b358a4.js.map",
+    "787.6182a4f2.chunk.js.map": "/colors-app/static/js/787.6182a4f2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6f4f3a7c.css",
-    "static/js/main.25205604.js"
+    "static/js/main.17b358a4.js"
   ]
 }
