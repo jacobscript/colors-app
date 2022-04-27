@@ -1,8 +1,8 @@
 {
-    "name": "colors-app",
+    "name": "colorsapp",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://jacobscript.github.io",
+    "homepage": "https://jacobscript.github.io/colorsapp",
     "dependencies": {
         "@material-ui/core": "^4.12.4",
         "@material-ui/icons": "^4.11.3",
